@@ -15,7 +15,7 @@ Update `WebShellURL` in the target build settings in Xcode (or edit `INFOPLIST_K
 
 Default value:
 
-- `http://locahost:5173`
+- `http://localhost:5173`
 
 ## Run
 
