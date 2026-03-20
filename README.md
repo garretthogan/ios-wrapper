@@ -15,7 +15,7 @@ Update `WebShellURL` in the target build settings in Xcode (or edit `INFOPLIST_K
 
 Default value:
 
-- `http://localhost:5173`
+- `https://garretthogan.github.io/dungeon-runner/`
 
 ## Run
 
