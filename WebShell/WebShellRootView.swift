@@ -9,7 +9,7 @@ struct WebShellRootView: View {
 }
 
 private enum AppConfig {
-    private static let defaultURLString = "http://localhost:5173"
+    private static let defaultURLString = "https://garretthogan.github.io/endless-zero/"
 
     static var startURL: URL {
         if let rawValue = Bundle.main.object(forInfoDictionaryKey: "WebShellURL") as? String,
